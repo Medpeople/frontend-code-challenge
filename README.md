@@ -1,5 +1,7 @@
 # Welcome to the Medpeople frontend code challenge!
 
+<img src="/MedpeopleLogo.png?raw=true" alt="Medpeople Logo" width="200" />
+
 ## INTRO
 We’re glad that you’re considering joining our tech team – and we look forward to hearing more about you, deep-dive into technical discussions and connect on a personal level. After all, that’s what’s most important!
 
@@ -15,7 +17,12 @@ At Medpeople, we develop three different apps inhouse:
 ## THE CHALLENGE
 Here are two (simplified) screens from our mobile app, that we would like you to rebuild for this code challenge:
 
-Job List Screen            Job Details Screen
+<div style="{ display: 'flex'; flex-direction: 'row'; }">
+  <img src="/JobListScreenshot.png?raw=true" alt="Job List Screenshot" width="200" />
+  <img src="/JobDetailsScreenshot.png?raw=true" alt="Job Details Screenshot" width="200" />
+</div>
+
+*Job List Screen* &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *Job Details Screen*
 
 In the `jobs.json` file you will find a list of jobs with all the necessary data. It’s up to you if you want to build a replica of the existing design or come up with a new and improved version! The **minimum requirements** are:
 1. The Job List view should display a list of all provided jobs with the most essential information (it’s up to you to decide what that is)
@@ -40,4 +47,4 @@ Once you’ve built something you’re happy with and that you think will convin
 
 Good luck, and enjoy the challenge!
 
-*The Medpeople tech team*
+<img src="/MedpeopleLogo.png?raw=true" alt="Medpeople Logo" width="20" /> *The Medpeople tech team*
